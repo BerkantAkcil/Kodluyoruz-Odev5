@@ -1,0 +1,15 @@
+.edit {
+  font-weight: bold;
+}
+
+.save {
+  font-weight: bold;
+}
+
+#listitem {
+  font-weight: bold;
+}
+
+.notes {
+  word-wrap: break-word;
+}
